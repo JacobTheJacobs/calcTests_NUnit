@@ -1,0 +1,7 @@
+C:\Users\Jacob The God\source\repos\DevelopmentProjectCalc\DevelopmentProjectCalc\bin\Debug\DevelopmentProjectCalc.exe.config
+C:\Users\Jacob The God\source\repos\DevelopmentProjectCalc\DevelopmentProjectCalc\bin\Debug\DevelopmentProjectCalc.exe
+C:\Users\Jacob The God\source\repos\DevelopmentProjectCalc\DevelopmentProjectCalc\bin\Debug\DevelopmentProjectCalc.pdb
+C:\Users\Jacob The God\source\repos\DevelopmentProjectCalc\DevelopmentProjectCalc\obj\Debug\DevelopmentProjectCalc.csprojAssemblyReference.cache
+C:\Users\Jacob The God\source\repos\DevelopmentProjectCalc\DevelopmentProjectCalc\obj\Debug\DevelopmentProjectCalc.csproj.CoreCompileInputs.cache
+C:\Users\Jacob The God\source\repos\DevelopmentProjectCalc\DevelopmentProjectCalc\obj\Debug\DevelopmentProjectCalc.exe
+C:\Users\Jacob The God\source\repos\DevelopmentProjectCalc\DevelopmentProjectCalc\obj\Debug\DevelopmentProjectCalc.pdb
